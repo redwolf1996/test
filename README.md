@@ -1,2 +1,2 @@
-# test
-this is just for test
+# 邵云翔的博客
+这是我的Github Pages 博客
